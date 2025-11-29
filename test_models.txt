@@ -1,0 +1,17 @@
+--- Linear Regression --- 
+MAE: 0.29 
+MSE: 0.18 
+R² Score: 0.82 
+Cross-validation R²: 0.831
+
+--- Random Forest --- 
+MAE: 0.20 
+MSE: 0.11 
+R² Score: 0.89 
+Cross-validation R²: 0.886
+
+--- Support Vector Regressor --- 
+MAE: 0.21 
+MSE: 0.12 
+R² Score: 0.89 
+Cross-validation R²: 0.887
